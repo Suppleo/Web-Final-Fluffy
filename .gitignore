@@ -1,0 +1,17 @@
+# Thư mục node_modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Thư mục build
+build/
+dist/
+
+# Biến môi trường
+.env
+
+# Tệp hệ thống
+.DS_Store
